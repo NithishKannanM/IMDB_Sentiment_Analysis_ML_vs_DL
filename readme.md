@@ -1,4 +1,4 @@
-🎬 IMDB Sentiment Analysis: SVM vs. CNN-LSTM
+🎬 IMDB Sentiment Analysis: ML vs DL (SVM vs CNN-LSTM)
 Project Overview
 
 This project performs binary sentiment analysis (positive/negative) on the IMDB movie reviews dataset. The goal is to compare the performance of a classical machine learning model (SVM) with a deep learning model (CNN-LSTM).
